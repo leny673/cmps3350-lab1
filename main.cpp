@@ -1,4 +1,4 @@
-// CMPS 3350 - lab 1 is all about source code 
+// CMPS 3350 - lab 1 is all about source code AND git
 // Prints each command-line argument passed into the program, one per line
 #include <stdio.h>
 
